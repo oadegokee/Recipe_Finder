@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-anydpi/ic_add_recipe.xml" value="0.2923076923076923" />
+        <entry key="app/src/main/res/drawable/ic_add_recipe_foreground.xml" value="0.2923076923076923" />
+        <entry key="app/src/main/res/drawable/ic_search.xml" value="0.2923076923076923" />
+        <entry key="app/src/main/res/drawable/ic_search_background.xml" value="0.15104166666666666" />
+        <entry key="app/src/main/res/drawable/ic_search_foreground.xml" value="0.15104166666666666" />
+        <entry key="app/src/main/res/layout/activity_add_recipe.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_my_favorite.xml" value="0.13652482269503546" />
+        <entry key="app/src/main/res/layout/activity_my_recipe.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_my_recipe_details.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_recipe_details.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/my_recipe_item.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/recipe_item.xml" value="0.11388888888888889" />
+        <entry key="app/src/main/res/layout/recipe_recycler_view_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/recycler_view_item.xml" value="0.165" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.2675925925925926" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_search.xml" value="0.27760416666666665" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_search_round.xml" value="0.15104166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

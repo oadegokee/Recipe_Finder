@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Creates items for the menu
+         sets the ID
+         specifies the order in which they show
+         sets the title of the item to reflect what it represents
+         sets the icon to an appropriate icon
+         makes sure the icon is always showing
+     -->
+    <item
+        android:id="@+id/my_recipes"
+        android:title="@string/label_recipes"
+        android:orderInCategory="10"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_my_recipe">
+    </item>
+</menu>

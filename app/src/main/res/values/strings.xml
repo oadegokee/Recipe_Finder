@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Recipe Finder</string>
+    <string name="label_recipes">My Recipes</string>
+    <string name="label_favorites">My Favorites</string>
+    <string name="label_add_recipe">Add Recipe</string>
+    <string name="hint_search">Search for Recipe</string>
+    <string name="text_youtube">YOUTUBE</string>
+    <string name="text_source">SOURCE</string>
+    <string name="label_instructions">INSTRUCTIONS</string>
+    <string name="label_nationality">Nationality</string>
+    <string name="label_title">Title</string>
+    <string name="title_activity_my_recipe_details">MyRecipeDetails</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="string_delete">DELETE</string>
+    <string name="string_update">UPDATE</string>
+    <string name="label_recipe_details">Recipe Details</string>
+    <string name="hint_title">Enter Title</string>
+    <string name="hint_nationality">Enter Nationality</string>
+    <string name="hint_instructions">Enter Instructions</string>
+</resources>
