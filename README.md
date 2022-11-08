@@ -11,4 +11,6 @@ This app successfully uses the mealdb api to display each recipe in card view an
 
 
 <p align="center"><img src="https://github.com/oadegokee/Recipe_Finder/blob/main/output.gif" width="270" height="500"/></p>
+<p align="center"><img src="https://github.com/oadegokee/Recipe_Finder/blob/main/add.gif" width="270" height="500"/></p>
+
 
