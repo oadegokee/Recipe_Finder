@@ -10,5 +10,5 @@ This app successfully uses the mealdb api to display each recipe in card view an
 * Another cool feature is that users can add their own recipes and have it saved to the app.
 
 
-<img src="https://github.com/oadegokee/Recipe_Finder/blob/main/output.gif" height="350"/>
+<img src="https://github.com/oadegokee/Recipe_Finder/blob/main/output.gif" width="500" height="350"/>
 
